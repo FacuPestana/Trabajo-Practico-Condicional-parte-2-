@@ -48,4 +48,14 @@ else { 'Acceso denegado'}
 
 //Punto 6 
 let numero = Number(prompt('Ingresa un numero'))
-function
+function multiplo(numero){
+  return numero %5 === 0
+}
+
+//Punto 7
+let Descuento = Number(prompt)('Ingresa tu edad')
+function Descuento1(){
+    if (Descuento > 65) alert{
+      'Perfecto,tenes un descuento del 10%'
+    }
+}
