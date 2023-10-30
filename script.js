@@ -109,7 +109,7 @@ function compararCadenas(cadena1, cadena2) {
 //12
 
 function calcularEdad(añoNacimiento) {
-  const añoActual = new Date().getFullYear(); // Vi en un video como lo podia usar entonces la implemento, Gracias
+  const añoActual = new Date().getFullYear(); // Vi en un video como lo podia usar entonces la implementé, Gracias
   const edad = añoActual - añoNacimiento;
   return edad;
 }
